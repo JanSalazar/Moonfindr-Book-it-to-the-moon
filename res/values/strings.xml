@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MoonFindr</string>
+    <string name="moon_phase">Phase : %s</string>
+    <string name="moon_distance">Distance : %s</string>
+    <string name="moon_age">Age : %s</string>
+    <string name="moon_latitude">Latitude : %s</string>
+    <string name="moon_longitude">Longitude : %s</string>
+    <string name="moon_fact">Today\'s fact about the Moon</string>
+    <string name="moon_fact_button">Choose a date to find out about its Moon</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_next">Next</string>
+    <string name="button_preview">Preview</string>
+    <string name="question">Question %1$d :\n\n%2$s </string>
+    <string name="answer">Answer %1$d :\n\n%2$s </string>
+    <string name="correct_answer">Well done! You got it right.</string>
+    <string name="incorrect_answer">You got it wrong. Try again!</string>
+
+    <!--Menu-->
+    <string name="display_menu_story">Story</string>
+    <string name="display_menu_picture">Picture</string>
+    <string name="display_menu_quiz">Quiz</string>
+
+    <string name="question_1">The Earth and Moon are the same size.</string>
+    <string name="answer_1">This is False, the Earth is four times the size of the Moon.</string>
+
+    <string name="question_2">You could jump higher on the Moon than on Earth.</string>
+    <string name="answer_2">This is True, the gravity is 6 times stronger on the Earth than on the Moon.</string>
+
+    <string name="question_3">The Moon doesn\’t rotate.</string>
+    <string name="answer_3">This is False, the moon does rotate but because the Earth is also moving in space we only see one face.</string>
+
+    <string name="question_4">The Moon produces it\’s own light.</string>
+    <string name="answer_4">This is False, the moon reflects light from the sun. The amount it reflects changes the shape we see in the sky.</string>
+
+    <string name="question_5">12 people have walked on the Moon.</string>
+    <string name="answer_5">True, 12 US astronauts have been to the moons surface as part of the Apollo program between 1969 and 1972.</string>
+
+    <string name="story1">If the sun were as tall as a typical front door, Earth would be the size of a nickel and the moon would the size of a green pea.</string>
+    <string name="story2">The lunar eclipse observed from Puerto Rico on April 2014. A lunar eclipse occurs when the Moon passes within Earth\'s shadow. As the eclipse begins, the Earth\'s shadow first darkens the Moon slightly. Then, the shadow begins to "cover" part of the Moon, turning it a dark red-brown color. The Moon appears to be reddish because of Rayleigh scattering (the same effect that causes sunsets to appear reddish) and the refraction of that light by the Earth\'s atmosphere into its shadow.</string>
+    <string name="story4">The gravity on the surface of the moon is only 16.6 that on Earth. That\'s why things on the Moon will weigh only 16.6 of what they weigh on the Earth. You can jump 6 times higher, about 10 feet straight up!</string>
+
+
+</resources>

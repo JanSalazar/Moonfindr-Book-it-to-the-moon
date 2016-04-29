@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/display_menu_story"
+          android:title="@string/display_menu_story"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/display_menu_picture"
+          android:title="@string/display_menu_picture"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/display_menu_quiz"
+          android:title="@string/display_menu_quiz"
+          app:showAsAction="never"/>
+
+</menu>
